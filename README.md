@@ -5,10 +5,10 @@ Used https://github.com/manashmndl/DeadSimpleSpeechRecognizer for data and refer
 
 Following changes implemented:
 <ul>
-Increased Dropout to reduce overfitting
-Optimizer updated to Adam to ensure faster training.
-Added an extra Convolution Layer to increase accuracy
-Reduced a Dense layer for faster training.
+  <li>Increased Dropout to reduce overfitting</li>
+  <li>Optimizer updated to Adam to ensure faster training.</li>
+  <li>Added an extra Convolution Layer to increase accuracy</li>
+  <li>Reduced a Dense layer for faster training.</li>
 </ul>
 
 The code was run on Keras with Tensorflow Backend, Python 3.6 on a GTX 960M
